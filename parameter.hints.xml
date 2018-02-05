@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="String.substr(from,length)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
